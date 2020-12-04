@@ -34,7 +34,7 @@
     size: 50px;
     /*background-color: #ffd5e5;*/
     /*position: relative;*/
-    padding: 100px ;
+    padding: 75px ;
     /*margin: 50px;
     border: 5px dotted blue;*/
     background-image: url('bg.jfif');
@@ -125,11 +125,12 @@ p{
 table{
     margin: 10px;
     border: 0 solid black;
-    width: 30%;
+    width: 20%;
+    /*padding: 10px;*/
   }
 
 
-th, td {
+table, th, td {
     padding: 10px;
   }
 
