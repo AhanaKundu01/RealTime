@@ -1,0 +1,198 @@
+.container1{
+
+    padding: 0px;
+    background-color: #fcf876;
+    position: relative;
+}
+
+.navimg{
+    margin-left: 50px;
+    width: 15%;
+}
+
+.pagename{
+    position: absolute;
+    top: 0;
+    left: 40%;
+    font-size: 7vw;
+    font-family: 'Patrick Hand', cursive;
+    color: #218d9b;
+
+}
+.nav{
+    background-color: #cee397;
+}
+
+/*.container1{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+}*/
+
+.container3{
+    size: 50px;
+    /*background-color: #ffd5e5;*/
+    /*position: relative;*/
+    padding: 100px ;
+    /*margin: 50px;
+    border: 5px dotted blue;*/
+    background-image: url('bg.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    
+}
+
+#navimg{
+    margin-left: 70px;
+    width: 20%;
+    height: 100px;
+}
+
+.transbox{
+    margin: 10px;
+    margin-right: 25%;
+    padding: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.8;
+    height: 50%;
+    
+    position: relative;
+}
+
+/*.t1{
+
+    position: absolute;
+    left: 5px;
+    top: 0;
+    right: 50%;
+    margin: 30px 30px 30px 30px;
+
+    
+    /*width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+}
+
+.t2{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    width: 200px;
+    height: 75%;
+    border: 1px transparent;
+    /*float: right;
+}*/
+
+
+#canvas{
+    /*width: 50%;*/
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+    background-color: #333333;
+    width: 130px;
+    height: 130px;
+
+    /*width="150" height="150"
+          style="background-color:#333"*/
+}
+
+.details{
+    clear: right;
+    padding: 10px;
+}
+
+.hr{
+    border: solid #434e52 2px;
+    border-bottom: none;
+    width: 10%;
+    margin: 16px;
+}
+
+h3{
+    font-family: 'Hi Melody', cursive;
+    font-family: 'Patrick Hand', cursive;
+}
+
+p{
+    font-family: 'Hi Melody', cursive;
+    font-family: 'Patrick Hand', cursive;
+}
+
+table{
+    margin: 10px;
+    border: 0 solid black;
+    width: 30%;
+  }
+
+
+th, td {
+    padding: 10px;
+  }
+
+.mapimg{
+
+    width: 100%;
+    height: auto;
+}
+
+
+h4{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+#timezone{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.testbutton {
+    font-family: 'Hi Melody', cursive;
+    font-family: 'Patrick Hand', cursive;
+    color: #F2DFDF !important;
+    font-size: 15px;
+    text-shadow: 1px 1px 0px #873B3B;
+    box-shadow: 1px 1px 1px #F9F9F9;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: 2px solid #4F0000;
+    background: #630000 ;
+    background: linear-gradient(to top, #630000, #FA0000);
+  }
+  .testbutton:hover {
+    color: #520021 !important;
+    background: #e08888;
+    background: linear-gradient(to top, #c7cf4f, #e6f1a7);
+  }
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+
+.bottom-container{
+    text-align: center;
+    background-color: #8bcdcd ;
+    padding: 50px 0 20px;
+}
+.contact-me{
+    width: 80%;
+    margin : auto ;
+}
+
+.footer_link{
+    color: #218d9b;
+    margin: 30px auto 30px auto;
+
+}
+
+.copyright{
+    color: #434e52;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
